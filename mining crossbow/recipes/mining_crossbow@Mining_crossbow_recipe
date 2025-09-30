@@ -1,0 +1,2 @@
+ID,Key,Product,Craft Table,Recipe,Product Quantity,Unlockable,(!)Folder,Locked,Affected By Global Multiplier
+5001,mining_crossbow@Mining_crossbow_recipe,E_ITEMS.mining_crossbow@Mining_crossbow,undefined,"[[E_ITEMS.wood,1]]",1,TRUE,undefined,FALSE,FALSE

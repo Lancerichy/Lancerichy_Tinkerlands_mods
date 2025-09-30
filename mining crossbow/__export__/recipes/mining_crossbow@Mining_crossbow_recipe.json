@@ -1,0 +1,11 @@
+{
+	"id" : 5001,
+	"key" : "mining_crossbow@Mining_crossbow_recipe",
+	"product" : "mining_crossbow@Mining_crossbow",
+	"craft_table" : null,
+	"recipe" : [[2,1]],
+	"product_quantity" : 1,
+	"unlockable" : 1,
+	"locked" : 0,
+	"affected_by_global_multiplier" : 0,
+}
