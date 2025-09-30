@@ -1,0 +1,11 @@
+{
+	"id" : 5001,
+	"key" : "Wood_axe_wood_pickaxe@Wood_axe_recipe",
+	"product" : 103,
+	"craft_table" : null,
+	"recipe" : [[2,0]],
+	"product_quantity" : 1,
+	"unlockable" : 1,
+	"locked" : 0,
+	"affected_by_global_multiplier" : 0,
+}
