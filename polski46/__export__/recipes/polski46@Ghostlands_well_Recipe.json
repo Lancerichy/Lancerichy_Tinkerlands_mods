@@ -1,0 +1,11 @@
+{
+	"id" : 5004,
+	"key" : "polski46@Ghostlands_well_Recipe",
+	"product" : "polski46@Ghostlands_well",
+	"craft_table" : null,
+	"recipe" : [[2,1]],
+	"product_quantity" : 1,
+	"unlockable" : 1,
+	"locked" : 0,
+	"affected_by_global_multiplier" : 0,
+}

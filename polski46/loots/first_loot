@@ -1,0 +1,2 @@
+ID,Key,Loot,($)Type,Icon,Ingame Sprite,Interactable,(!)Folder
+12,first_loot,"[[E_ITEMS.fish_axe,1,1,1,db_item],[E_ITEMS.fish_pickaxe,1,1,1,db_item],[E_ITEMS.stick,1,1,1,db_item],[E_ITEMS.torch_wood,1,6,6,db_item],[E_ITEM_POOLS.food,1,3,3,db_item_pool]]",Container,undefined,undefined,E_INTERACTABLES.chest_ship,undefined

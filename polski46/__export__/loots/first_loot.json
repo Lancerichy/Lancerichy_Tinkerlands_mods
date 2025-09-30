@@ -1,0 +1,9 @@
+{
+	"id" : 12,
+	"key" : "first_loot",
+	"loot" : "[[759,1,1,1,\"db_item\"],[760,1,1,1,\"db_item\"],[95,1,1,1,\"db_item\"],[14,1,6,6,\"db_item\"],[66,1,3,3,\"db_item_pool\"]]",
+	"type" : "Container",
+	"icon" : null,
+	"ingame_sprite" : null,
+	"interactable" : 99,
+}

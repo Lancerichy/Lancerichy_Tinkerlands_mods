@@ -1,0 +1,11 @@
+{
+	"id" : 5006,
+	"key" : "polski46@Blood_heart_recipe",
+	"product" : "polski46@Blood_heart",
+	"craft_table" : null,
+	"recipe" : [[2,1]],
+	"product_quantity" : 1,
+	"unlockable" : 1,
+	"locked" : 0,
+	"affected_by_global_multiplier" : 0,
+}
