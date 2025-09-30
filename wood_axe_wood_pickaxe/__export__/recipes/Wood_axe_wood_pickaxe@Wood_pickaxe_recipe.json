@@ -3,7 +3,7 @@
 	"key" : "Wood_axe_wood_pickaxe@Wood_pickaxe_recipe",
 	"product" : 102,
 	"craft_table" : null,
-	"recipe" : [[2,0]],
+	"recipe" : [[2,1]],
 	"product_quantity" : 1,
 	"unlockable" : 1,
 	"locked" : 0,

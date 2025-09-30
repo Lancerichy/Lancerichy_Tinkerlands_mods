@@ -1,2 +1,2 @@
 ID,Key,Product,Craft Table,Recipe,Product Quantity,Unlockable,(!)Folder,Locked,Affected By Global Multiplier
-5001,Wood_axe_wood_pickaxe@Wood_axe_recipe,E_ITEMS.wood_axe,undefined,"[[E_ITEMS.wood,0]]",1,TRUE,undefined,FALSE,FALSE
+5001,Wood_axe_wood_pickaxe@Wood_axe_recipe,E_ITEMS.wood_axe,undefined,"[[E_ITEMS.wood,1]]",1,TRUE,undefined,FALSE,FALSE
