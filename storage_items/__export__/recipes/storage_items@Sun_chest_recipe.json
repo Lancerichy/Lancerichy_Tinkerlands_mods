@@ -1,0 +1,11 @@
+{
+	"id" : 5007,
+	"key" : "storage_items@Sun_chest_recipe",
+	"product" : "storage_items@Sun_chest",
+	"craft_table" : null,
+	"recipe" : [[2,1]],
+	"product_quantity" : 1,
+	"unlockable" : 1,
+	"locked" : 0,
+	"affected_by_global_multiplier" : 0,
+}

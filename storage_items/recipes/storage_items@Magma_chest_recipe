@@ -1,0 +1,2 @@
+ID,Key,Product,Craft Table,Recipe,Product Quantity,Unlockable,(!)Folder,Locked,Affected By Global Multiplier
+5008,storage_items@Magma_chest_recipe,E_ITEMS.storage_items@Magma_chest,undefined,"[[E_ITEMS.wood,1]]",1,TRUE,undefined,FALSE,FALSE

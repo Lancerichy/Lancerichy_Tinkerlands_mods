@@ -1,0 +1,2 @@
+ID,Key,Product,Craft Table,Recipe,Product Quantity,Unlockable,(!)Folder,Locked,Affected By Global Multiplier
+5001,storage_items@Gold_chest_recipe,E_ITEMS.storage_items@Gold_chest,undefined,"[[E_ITEMS.wood,1]]",1,TRUE,undefined,FALSE,FALSE

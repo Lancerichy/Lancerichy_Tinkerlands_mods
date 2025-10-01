@@ -1,0 +1,2 @@
+ID,Key,Product,Craft Table,Recipe,Product Quantity,Unlockable,(!)Folder,Locked,Affected By Global Multiplier
+5005,storage_items@Goblin_chest_recipe,E_ITEMS.storage_items@Goblin_chest,undefined,"[[E_ITEMS.wood,1]]",1,TRUE,undefined,FALSE,FALSE
