@@ -1,0 +1,2 @@
+ID,Key,Product,Craft Table,Recipe,Product Quantity,Unlockable,(!)Folder,Locked,Affected By Global Multiplier
+5001,Critical_potion@Critical_potion,E_ITEMS.potion_critical,undefined,"[[E_ITEMS.wood,1]]",1,TRUE,undefined,FALSE,FALSE
