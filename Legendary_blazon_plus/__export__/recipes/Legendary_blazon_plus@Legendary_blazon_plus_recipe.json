@@ -1,0 +1,11 @@
+{
+	"id" : 5001,
+	"key" : "Legendary_blazon_plus@Legendary_blazon_plus_recipe",
+	"product" : "Legendary_blazon_plus@Legendary_blazon_plus",
+	"craft_table" : null,
+	"recipe" : [[2,1]],
+	"product_quantity" : 1,
+	"unlockable" : 1,
+	"locked" : 0,
+	"affected_by_global_multiplier" : 0,
+}
